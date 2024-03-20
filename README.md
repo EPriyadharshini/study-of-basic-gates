@@ -95,13 +95,14 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **RTL realization Output:** 
-![alt text](logic_gate(gate).png)
+
 
 <img width="404" alt="image" src="https://github.com/EPriyadharshini/study-of-basic-gates/assets/144870831/53401c23-01c3-4444-ae18-070f75bafd10">
 
 
 **OUTOUT**
-![alt text](1.png)
+
+<img width="719" alt="image" src="https://github.com/EPriyadharshini/study-of-basic-gates/assets/144870831/713fc1b2-8e06-4697-bef1-519b70bbb607">
 
 
 
