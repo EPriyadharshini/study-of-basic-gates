@@ -74,15 +74,16 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 
- Developed by:PRITADHARSHINI E RegisterNumber: 212223230159
+ Developed by:PRIYADHARSHINI E RegisterNumber: 212223230159
  
  
  
  PROGRAM
- ![alt text](<Screenshot 2024-03-20 195241.png>)
-
-
  
+
+
+ <img width="724" alt="image" src="https://github.com/EPriyadharshini/study-of-basic-gates/assets/144870831/2dddbdbe-1a3d-4d23-90fa-7fd022da812c">
+
 
 
  
@@ -96,6 +97,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL realization Output:** 
 ![alt text](logic_gate(gate).png)
 
+<img width="404" alt="image" src="https://github.com/EPriyadharshini/study-of-basic-gates/assets/144870831/53401c23-01c3-4444-ae18-070f75bafd10">
 
 
 **OUTOUT**
